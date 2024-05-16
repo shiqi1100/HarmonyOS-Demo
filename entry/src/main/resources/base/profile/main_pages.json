@@ -5,6 +5,7 @@
     "pages/ListPage",
     "pages/Login",
     "pages/Test_watch",
-    "pages/GoodsList"
+    "pages/GoodsList",
+    "pages/CustomDialogPage"
   ]
 }
