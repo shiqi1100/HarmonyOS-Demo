@@ -1,9 +1,9 @@
 {
-  "name": "usetemplate",
+  "name": "@use-template",
   "version": "1.0.1",
   "description": "封装一些组件和工具函数,这是第一次发布,后续会持续完善相关功能",
   "main": "index.ets",
   "author": "shiqi",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {}
 }

@@ -31,3 +31,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# 安装
+ohpm install @use-template
+
+# 使用说明
+```
+import { MainPage } from '@use-template';
+// 使用组件
+MainPage()
+```
