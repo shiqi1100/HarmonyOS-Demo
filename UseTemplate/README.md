@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # 安装
-ohpm install @use-template
+ohpm install @shim/template
 
 # 使用说明
 ```
-import { MainPage } from '@use-template';
+import { MainPage } from '@shim/template';
 // 使用组件
 MainPage()
 ```
